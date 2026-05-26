@@ -24,7 +24,9 @@ I'm an experienced WordPress developer from **Dhaka, Bangladesh** with 5+ years 
 
 ### 📊 GitHub Stats
 
-![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhawebbd&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talhawebbd&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhawebbd&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
